@@ -176,7 +176,7 @@ export function BusinessTypeSearch({form, setNewSelectedProduct}) {
 				</SearchInput>
 
 				<p className="paragraph">
-					i.e. Coffee shop, Plumber, Drop Shipping, Landscape, etc
+					i.e. Apartments, Coffee, Medical, Pet Stores, etc
 				</p>
 			</div>
 			{renderResults()}
